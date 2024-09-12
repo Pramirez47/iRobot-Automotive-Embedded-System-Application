@@ -2,7 +2,6 @@
 
 </center>
 
-- Date: 11/2/2023
 - Ponciano Ramirez
 - Gage Moorman
 
